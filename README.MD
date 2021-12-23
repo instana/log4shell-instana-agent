@@ -6,7 +6,7 @@ For more information about Instana and the Apache Log4j CVE-2021-44228 please vi
 
 ### Prerequisites
 
-* Prepare your tenant unit name: From the URL of your Instana instance pick the firt element before `instana.io`. For our QA instance this is `qa-instana` from the URL `https://qa-instana.instana.io`.
+* Prepare your tenant unit name: From the URL of your Instana instance pick the first element before `instana.io`. For our QA instance this is `qa-instana` from the URL `https://qa-instana.instana.io`.
 * Set up an API token as described in our documentation [here](https://www.instana.com/docs/api/web).
 
 ### Run the script

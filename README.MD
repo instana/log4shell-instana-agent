@@ -17,7 +17,7 @@ Clone this repository and run the script as follows:
 API_TOKEN="<your-token-here>" TENANT_UNIT="<your-tenant-unit-here>" ./log4shell-instana-agents.sh
 ```
 
-In case your Instana installation runs in a host different than `instana.io` please also put the environemnt variable `INSTANA_HOST` as follows:
+In case your Instana installation runs in a host different than `instana.io` please also put the environment variable `INSTANA_HOST` as follows:
 
 ```shell
 API_TOKEN="<your-token-here>" TENANT_UNIT="<your-tenant-unit-here>" INSTANA_HOST="<your-host-here>" ./log4shell-instana-agents.sh
